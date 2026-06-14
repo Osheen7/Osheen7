@@ -1,56 +1,67 @@
-# Hi there, I'm Osheen 👋
+# Hi 👋, I'm Osheen
 
-### 🚀 Optimizing Code & Building Intelligent Solutions
-
-I'm a software developer with a strong focus on building efficient applications, leveraging AI capabilities, and keeping codebases clean. I enjoy bridging the gap between complex data and user-friendly tools.
+💻 A passionate developer learning **Data Analystics** and exploring **GenAI & CLoud Computing**
 
 ---
 
-### 🛠️ My Tech Stack & Toolkit
+## 🚀 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, SQL |
-| **Frameworks / Libraries** | React, Node.js, Fastify, Next.js |
-| **AI & Data** | LangChain, OpenAI API, Hugging Face, Pandas |
-| **Tools & DevOps** | Git, Docker, GitHub Actions, Vercel |
+* 🌱 Currently learning **Java,C++, Data Analystics, Cloud Computing**
+* 🤖 Interested in **Data Analystics and Cloud Computing**
+* 🌐 Exploring **Python Libraries , Excel & Power BI**
+* 🎯 Goal: Become a **strong data analyst**
 
 ---
 
-### 🧠 What I'm Currently Working On
+## 🛠️ Tech Stack
 
-* **AI-Driven Tools:** Experimenting with frameworks to accelerate and simplify AI application development.
-* **Developer Workflows:** Exploring how automated AI tools can assist developers in creative industries like digital filmmaking and content creation.
-* **Open Source:** Contributing to tools that prioritize clean data formatting and structure.
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🌐 Data Analystic
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 LeetCode Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/?theme=dark\&font=baloo\&ext=contest)
 
 ---
 
-### 🤝 Connect with Me
+## 📊 GitHub Stats
 
-* 💼 Connect on [LinkedIn](https://linkedin.com/in/your-username)
-* 🌐 Check out my [Personal Portfolio](https://your-portfolio.com)
-* 📧 Reach me at `your.email@example.com`
+![Osheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osheen7\&show_icons=true\&theme=tokyonight)
 
-"The best way to predict the future is to invent it." 💻
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osheen7\&layout=compact\&theme=tokyonight)
 
-<!--
-**Osheen7/Osheen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 Demo Company Chatbot Project
+* 💡 More projects coming soon...
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [vanshahlawat422@email.com](mailto:vanshahlawat422@email.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/vansh-ahlawat-69522a305/
+
+---
+
+## ⚡ Fun Fact
+
+I love solving coding problems and building cool tech projects 🚀
