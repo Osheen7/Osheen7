@@ -36,7 +36,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/?theme=dark\&font=baloo\&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/osheenvishnoi?theme=dark\&font=baloo\&ext=contest)
 
 ---
 
@@ -57,11 +57,10 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [vanshahlawat422@email.com](mailto:vanshahlawat422@email.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/vansh-ahlawat-69522a305/
-
+* 📧 Email: [osheenvishnoi@gmail.com](mailto: osheenvishnoi@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/osheen-vishnoi-623276356?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ## ⚡ Fun Fact
 
-I love solving coding problems and building cool tech projects 🚀
+I love data analysis and building cool tech projects 🚀
