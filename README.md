@@ -44,21 +44,20 @@
 
 ![Osheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osheen7\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osheen7\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 Projects
 
-* 📊 Demo Company Chatbot Project
-* 💡 More projects coming soon...
+* 📊 
+* 💡 
 
 ---
 
 ## 📫 Connect With Me
 
 * 📧 Email: [osheenvishnoi@gmail.com](mailto: osheenvishnoi@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/osheen-vishnoi-623276356?
+* 💼 LinkedIn: https://www.linkedin.com/in/osheen-vishnoi-623276356
 ---
 
 ## ⚡ Fun Fact
