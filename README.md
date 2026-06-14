@@ -18,7 +18,7 @@
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 🌐 Data Analystic
@@ -58,7 +58,7 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [osheenvishnoi@gmail.com](mailto: osheenvishnoi@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/osheen-vishnoi-623276356?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 💼 LinkedIn: https://www.linkedin.com/in/osheen-vishnoi-623276356?
 ---
 
 ## ⚡ Fun Fact
