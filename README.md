@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * 🌱 Currently learning **Java,C++, Data Analytics, Cloud Computing**
-* 🤖 Interested in **Data Analystics and Cloud Computing**
+* 🤖 Interested in **Data Analysis and Cloud Computing**
 * 🌐 Exploring **Python Libraries , Excel & Power BI**
 * 🎯 Goal: Become a **strong data analyst**
 
