@@ -1,12 +1,12 @@
 # Hi 👋, I'm Osheen
 
-💻 A passionate developer learning **Data Analystics** and exploring **GenAI & CLoud Computing**
+💻 A passionate Student learning **Data Analytics** and exploring **GenAI & CLoud Computing**
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Java,C++, Data Analystics, Cloud Computing**
+* 🌱 Currently learning **Java,C++, Data Analytics, Cloud Computing**
 * 🤖 Interested in **Data Analystics and Cloud Computing**
 * 🌐 Exploring **Python Libraries , Excel & Power BI**
 * 🎯 Goal: Become a **strong data analyst**
@@ -21,7 +21,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 🌐 Data Analystic
+### 🌐 Data Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
